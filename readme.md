@@ -48,6 +48,8 @@ Esercizi sulla ciclomatica
 
 ## Array Base
 
+[torna in cima](#esercizi)
+
 Esercizi sugli array da risolvere principalmente con l'uso di cicli
 
 14. Dato un array di prodotti e uno di quantità, stampa se il prodotto è esaurito o se le scorte sono basse.
@@ -67,6 +69,8 @@ Esercizi sugli array da risolvere principalmente con l'uso di cicli
 21. Un ospedale ha 7 infermieri con questi turni: ["mattina", "pomeriggio", "notte", "mattina", "pomeriggio", "notte", "mattina"]. Conta quanti infermieri lavorano in ciascun turno.
 
 ## Array Methods
+
+[torna in cima](#esercizi)
 
 Esercizi sugli array per esercitarvi su problemi specifici che richiedono l'uso di metodi specifici degli array come indexOf, includes, charAt ecc...
 Aiutati con la dispensa e la documentazione.
@@ -117,6 +121,8 @@ Aiutati con la dispensa e la documentazione.
 
 ## Funzioni
 
+[torna in cima](#esercizi)
+
 Questi esercizi sono ideali per essere risolti tramite una funzione.
 
 44. Stai pianificando un viaggio negli USA. Scrivi una funzione che converta una somma in Euro nel corrispondente valore in Dollari, dato il tasso di cambio del giorno.
@@ -140,6 +146,8 @@ Questi esercizi sono ideali per essere risolti tramite una funzione.
 53. Un tracker di spedizioni usa codici numerici. Scrivi una funzione che riceve un codice (1, 2, 3) e restituisce "In elaborazione" per 1, "Spedito" per 2, "Consegnato" per 3. Se il codice non esiste, restituisce "Stato sconosciuto".
 
 ## Iterative Array Methods
+
+[torna in cima](#esercizi)
 
 Anche qui usiamo metodi degli array, ma ci riferiamo a quei metodi che usiamo per iterare, collegando una funzione ad ogni iterazione (each, map, filter, every ecc..)
 
@@ -192,6 +200,8 @@ Anche qui usiamo metodi degli array, ma ci riferiamo a quei metodi che usiamo pe
 77. data una lista di città, verifica se c'è qualche città composta da più parole
 
 ## Manipolazione DOM
+
+[torna in cima](#esercizi)
 
 78. Crea una lista della spesa e aggiungi un nuovo articolo quando l'utente clicca sul pulsante.
 
