@@ -6,7 +6,16 @@ Gli esercizi sono pensati per fare pratica sui mattoni fondamentali della progra
 Sono presenti circa 100 esercizi:
 non dovete farli tutti, non dovete farli adesso, non dovete farli in ordine.
 
-## Iterazioni
+### Indice
+
+- [Iterazioni](#iterazioni)
+- [Array Base](#array-base)
+- [Array Methods](#array-methods)
+- [Funzioni](#funzioni)
+- [Iterative Array Methods](#iterative-array-methods)
+- [Manipolazione DOM](#manipolazione-dom)
+
+# Iterazioni
 
 Esercizi sulla ciclomatica
 
